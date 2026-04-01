@@ -1,7 +1,7 @@
 # Automation-Testing-Task   
 
 Homework
-# Navigate to this url: https://www.lancome-usa.com
+# Navigate to this url:  https://certwcs.frontgate.com/?aka_bypass=5C73514EE7A609054D81DE61DD9CA3D6
 #Verify the logo is displayed
 #Verify the "E-mail sign up", "My account" and "my bag" links are displayed
 # Click on "My account" link
